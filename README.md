@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me 
+## About Me 
 
 I am a **Doctor of Pharmacy (PharmD)💊🩺 student (Class of 2026)🥼🎓**, **Certified Data Analyst**, and **Data Scientist**.
 
@@ -23,7 +23,7 @@ Outside of work, I enjoy **fitness, content creation, and mentoring**, and I’m
 
 ---
 
-### 🏆 Check Out My Full Portfolio Website  
+### Check Out My Full Portfolio Website  
 https://your-username.github.io/
 
 ---
@@ -36,7 +36,7 @@ https://your-username.github.io/
 
 ---
 
-## 🌱 Currently Learning 
+## Currently Learning 
 
 - Python for Data Science (ALX)  
 - Machine Learning for Data Science(ALX)  
@@ -44,7 +44,7 @@ https://your-username.github.io/
 
 ---
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 #### Data Analysis & Visualization
 <p>
@@ -53,22 +53,30 @@ https://your-username.github.io/
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
-#### Programming & Automation
+#### Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-#### Healthcare & Data Science
+#### Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Pharmacy-6A1B9A?style=flat">
-  <img src="https://img.shields.io/badge/Data%20Science-blue?style=flat">
   <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat">
-  <img src="https://img.shields.io/badge/HealthTech-00A8E8?style=flat">
+  <img src="https://img.shields.io/badge/Data%20Analysis-blue?style=flat">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-9cf?style=flat">
+</p>
+
+#### Pharmacy & Healthcare
+<p>
+  <img src="https://img.shields.io/badge/Clinical%20Pharmacy-6A1B9A?style=flat">
+  <img src="https://img.shields.io/badge/Patient%20Counseling-8E44AD?style=flat">
+  <img src="https://img.shields.io/badge/Scientific%20Research-5D6D7E?style=flat">
+  <img src="https://img.shields.io/badge/Medical%20Writing-34495E?style=flat">
+  <img src="https://img.shields.io/badge/Pharmacy%20Operations-7D3C98?style=flat">
 </p>
 
 ---
 
-## 💼 Projects  
+## Projects  
 
 - Restaurant analytics system  
 - Pharmacy inventory optimization system  
@@ -77,7 +85,7 @@ https://your-username.github.io/
 
 ---
 
-## 💡 Focus  
+## Focus  
 
 Building **AI-powered and data-driven solutions** that solve real problems in:
 - Healthcare systems  
