@@ -48,22 +48,22 @@ https://your-username.github.io/
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
 #### Healthcare & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Pharmacy-Clinical%20Knowledge-6A1B9A?style=flat">
-  <img src="https://img.shields.io/badge/Data%20Science-Active%20Learning-blue?style=flat">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Beginner-orange?style=flat">
-  <img src="https://img.shields.io/badge/HealthTech-Enthusiast-00A8E8?style=flat">
+  <img src="https://img.shields.io/badge/Pharmacy-6A1B9A?style=flat">
+  <img src="https://img.shields.io/badge/Data%20Science-blue?style=flat">
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat">
+  <img src="https://img.shields.io/badge/HealthTech-00A8E8?style=flat">
 </p>
 
 ---
