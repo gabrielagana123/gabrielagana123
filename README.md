@@ -40,7 +40,7 @@ https://your-username.github.io/
 
 - Python for Data Science (ALX)  
 - Machine Learning for Data Science(ALX)  
-- Applying data science in real healthcare scenarios during clinical rotations  
+- Clinical rotations ( Surgery, Maternal Health, Child Health, Internal Medicine, Acident and Emergency, Mental Health)
 
 ---
 
