@@ -15,14 +15,9 @@
 
 ## 🚀 About Me 
 
-I am a **Doctor of Pharmacy (PharmD) student (Class of 2026)**, **Certified Data Analyst**, and **Data Scientist**, currently building at the intersection of **healthcare, data, and technology**.
+I am a **Doctor of Pharmacy (PharmD)💊🩺 student (Class of 2026)🥼🎓**, **Certified Data Analyst**, and **Data Scientist**.
 
 I focus on solving real-world problems in African healthcare systems using **data-driven and AI-powered solutions**. My work spans pharmacy operations, predictive analytics, and digital health innovation.
-
-I am particularly interested in building scalable systems that improve:
-- Access to essential medicines  
-- Clinical decision-making  
-- Efficiency in healthcare delivery  
 
 Outside of work, I enjoy **fitness, content creation, and mentoring**, and I’m constantly working on personal and professional growth.
 
@@ -33,10 +28,10 @@ https://your-username.github.io/
 
 ---
 
-## 🔭 What I'm Currently Working On 
+## What I'm Currently Working On (Startups)
 
-- **Renolab:** AI-driven kidney disease prediction and early detection system  
-- **Kemia (Vuzima):** Intelligent pharmacy OS to prevent stockouts, expiry risks, and inefficiencies  
+- **Renolab:** AI-driven kidney disease prediction and early detection system.  
+- **Vuzima:** Intelligent pharmacy OS to prevent stockouts, expiry risks, and inefficiencies  
 - **Sautiq:** Building a media + digital agency helping small businesses establish an online presence (websites, ads, branding, content)  
 
 ---
@@ -44,7 +39,7 @@ https://your-username.github.io/
 ## 🌱 Currently Learning 
 
 - Python for Data Science (ALX)  
-- Machine Learning fundamentals  
+- Machine Learning for Data Science(ALX)  
 - Applying data science in real healthcare scenarios during clinical rotations  
 
 ---
